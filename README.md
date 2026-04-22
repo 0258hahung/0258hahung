@@ -203,12 +203,6 @@ Lightweight microservice for real-time communication.
   <img src="https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=1877F2" />
 </a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=0258hahung&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS&abbreviated=true" />
-
-<br/><br/>
-
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
