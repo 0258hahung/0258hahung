@@ -157,8 +157,6 @@ Lightweight microservice for real-time communication.
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=0258hahung&bg_color=0d1117&color=4FC3F7&line=4FC3F7&point=e0f7fa&area=true&area_color=1a3a4a&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
-
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
