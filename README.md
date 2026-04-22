@@ -213,16 +213,3 @@ Lightweight microservice for real-time communication.
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-
-```
-  ╔══════════════════════════════════════════════════════╗
-  ║                                                      ║
-  ║   💡 Open to collaboration on backend projects       ║
-  ║   📬 Feel free to reach out for opportunities        ║
-  ║                                                      ║
-  ╚══════════════════════════════════════════════════════╝
-```
-
-</div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1a,25:0d1b2a,50:1b2838,75:1a3a4a,100:0f4c5c&height=120&section=footer" width="100%" />
